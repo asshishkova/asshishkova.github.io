@@ -221,7 +221,7 @@ a:hover {
     margin: 5px;
     font-size: 20px;
   }
-  .container, .project-info, .li-links {
+  .container, .project-info {
     font-size: 15px;
   }
 }
