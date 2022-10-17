@@ -216,7 +216,7 @@ a:hover {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 400px) {
   .header {
     margin: 5px;
     font-size: 20px;
