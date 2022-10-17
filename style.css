@@ -219,8 +219,9 @@ a:hover {
 @media (max-width: 400px) {
   .header {
     margin: 5px;
+    font-size: 20px;
   }
-  .container, .project-info, .li-links, .header {
+  .container, .project-info, .li-links {
     font-size: 15px;
   }
 }
